@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/19Challenges_Testimonials_grid_section/static/css/main.636fa8fe.css",
+    "main.js": "/19Challenges_Testimonials_grid_section/static/js/main.d899674e.js",
+    "index.html": "/19Challenges_Testimonials_grid_section/index.html",
+    "main.636fa8fe.css.map": "/19Challenges_Testimonials_grid_section/static/css/main.636fa8fe.css.map",
+    "main.d899674e.js.map": "/19Challenges_Testimonials_grid_section/static/js/main.d899674e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.636fa8fe.css",
+    "static/js/main.d899674e.js"
+  ]
+}
