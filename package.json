@@ -1,4 +1,5 @@
 {
+  "homepage": "http://yxwangOCR.github.io/19Challenges_Testimonials_grid_section",
   "name": "testimonials-grid-section",
   "version": "0.1.0",
   "private": true,
@@ -34,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "prettier": "2.8.3",
+    "tailwindcss": "^3.2.4"
   }
 }
