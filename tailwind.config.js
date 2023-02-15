@@ -16,7 +16,15 @@ module.exports = {
       'white': 'hsl(0, 0%, 100%)',
       'blue': 'hsl(210, 46%, 95%)',
     },
-    extend: {},
+    fontFamily: {
+      'barlow': ['Barlow Semi Condensed', 'sans-serif'],
+    },
+    extend: {
+      backgroundImage: {
+        'hero': "url('../src/images/bg-pattern-quotation.svg')",
+      }
+    },
   },
   plugins: [],
 };
+1024
