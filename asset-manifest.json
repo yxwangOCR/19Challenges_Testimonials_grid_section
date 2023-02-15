@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/19Challenges_Testimonials_grid_section/static/css/main.636fa8fe.css",
-    "main.js": "/19Challenges_Testimonials_grid_section/static/js/main.d899674e.js",
+    "main.css": "/19Challenges_Testimonials_grid_section/static/css/main.5cfcc5a5.css",
+    "main.js": "/19Challenges_Testimonials_grid_section/static/js/main.f8dd2bb1.js",
     "index.html": "/19Challenges_Testimonials_grid_section/index.html",
-    "main.636fa8fe.css.map": "/19Challenges_Testimonials_grid_section/static/css/main.636fa8fe.css.map",
-    "main.d899674e.js.map": "/19Challenges_Testimonials_grid_section/static/js/main.d899674e.js.map"
+    "static/media/bg-pattern-quotation.svg": "/19Challenges_Testimonials_grid_section/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "main.5cfcc5a5.css.map": "/19Challenges_Testimonials_grid_section/static/css/main.5cfcc5a5.css.map",
+    "main.f8dd2bb1.js.map": "/19Challenges_Testimonials_grid_section/static/js/main.f8dd2bb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.636fa8fe.css",
-    "static/js/main.d899674e.js"
+    "static/css/main.5cfcc5a5.css",
+    "static/js/main.f8dd2bb1.js"
   ]
 }
